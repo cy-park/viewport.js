@@ -1,0 +1,26 @@
+{
+  "name": "viewport.js",
+  "version": "0.0.1",
+  "description": "A javascript library to provide and store browser viewport information.",
+  "main": "viewport.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cy-park/viewport.js.git"
+  },
+  "keywords": [
+    "viewport",
+    "browser",
+    "size",
+    "javascript",
+    "js"
+  ],
+  "author": "Chan Young Park <designbycy@gmail.com> (http://www.chanyoungpark.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cy-park/viewport.js/issues"
+  },
+  "homepage": "https://github.com/cy-park/viewport.js#readme"
+}
